@@ -1,1 +1,2 @@
 name: Team awesome's apporval workflow
+on: pull_request_review
